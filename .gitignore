@@ -1,0 +1,17 @@
+.env
+.github
+memory-bank
+node_modules
+dist
+.vscode
+.DS_Store
+npm-debug.log
+yarn-error.log
+.idea
+*.iml
+coverage
+*.log
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
